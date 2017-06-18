@@ -8,9 +8,9 @@
 # Site settings
 title: The Cabot Patch
 email: mtmarellano@gmail.com
-description: > 
-It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn.
-— B.C. Forbes
+description: 
+"It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn.
+— B.C. Forbes"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thecabotpatch.com" # the base hostname & protocol for your site
 twitter_username: 
