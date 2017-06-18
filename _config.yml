@@ -1,18 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: The Cabot Patch
+title: The Cabot Patch 
 email: mtmarellano@gmail.com
-description: <
-"It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn. --B.C. Forbes"
-baseurl: "http://thecabotpatch.com" # the subpath of your site, e.g. /blog
-url: "http://thecabotpatch.com" # the base hostname & protocol for your site
-twitter_username: 
+description: It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn. -B.C. Forbes
+baseurl: ""
+url: "http://thecabotpatch.com/"
 github_username:  mtmarellano
 
 # Build settings
